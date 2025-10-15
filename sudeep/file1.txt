@@ -1,7 +1,7 @@
 hello from sudeep
 
 changes made from local
-second change from  local:wq!:
+second change from  local
 
 changes made fromm remote
 
